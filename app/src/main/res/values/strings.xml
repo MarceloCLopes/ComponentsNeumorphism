@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">NeumorphismUIComponent</string>
+    <string name="label_hello">Hello</string>
+  <string name="label_title_salutation">hello guys!</string>
+</resources>

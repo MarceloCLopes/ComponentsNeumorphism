@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="whisper_200">#EFEEEE</color>
+  <color name="whisper_500">#EFEEEE</color>
+  <color name="whisper_700">#EFEEEE</color>
+  <color name="whispers_200">#EFEEEE</color>
+  <color name="whispers_700">#EFEEEE</color>
+  <color name="black">#FF000000</color>
+  <color name="white">#FFFFFFFF</color>
+</resources>
